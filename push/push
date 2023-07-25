@@ -1,0 +1,5 @@
+just checking
+git add .
+&& git commit -m "first commit"
+git push
+origin master #pushing to the remote repository on GitHub.com
